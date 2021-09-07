@@ -1,5 +1,4 @@
 
-import DesignFeatures from './designfeatures'
 import About from './sections/About';
 import MainHome from './sections/MainHome'
 import Head from 'next/head'
